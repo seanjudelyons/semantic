@@ -2,7 +2,7 @@
 
 ## About
 
-`semantic` is a command line tool which uses Machine Learning vectors to find similar words in a text document.
+`semantic` is a command line tool which uses GloVe vectors to find similar words in a text document.
 
 
 ## Installation
